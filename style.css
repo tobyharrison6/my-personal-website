@@ -37,27 +37,37 @@ nav{
     text-decoration: none;
     letter-spacing: 5px ;
     font-size: 16px;
-    font-weight: bold;
     font-family: 'Roboto', sans-serif;
 }
 
-p {
-    display: block;
-    margin-block-start: 10em;
-    margin-block-end: 10em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
-}
-
-
-.intro {
-    font-size: 1.5vw;
-    display: block;
-    text-align: left;
-    width: 44vw;
-    position: relative;
-    left: 30%;
-    top: -2vw;
+.intro{
+    font-size: 48px;
     color: #62615D;
-    font-family: 'Didact Gothic', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-block-start: 7em;
+    margin-block-end: 7em;
+    margin-inline-start: 10em;
+    margin-inline-end: 10em;
+
+
+}
+.skills {
+    font-size: 30px;
+    color: #62615D;
+    font-family: 'Roboto', sans-serif;
+    word-spacing: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-block-start: 7em;
+    margin-block-end: 7em;
+    margin-inline-start: 10em;
+    margin-inline-end: 10em;
+
+
 }
