@@ -13,20 +13,21 @@ nav{
     align-items: center;
     min-height: 8vh;
     background-color: rgba(160, 160, 160, 0.952);
-    font-family: 'futura-pt',sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 
-.header-menu {
-    color: whitesmoke;
+.logo {
+    color: rgba(46, 38, 38, 0.795);
     text-transform: uppercase;
-    letter-spacing: 5px ;
-    font-size: 20px;
+    letter-spacing: 5px;
+    font-size: 25px;
+    font-family: 'Roboto', sans-serif;
+    text-align: end;
 }
 .menu  {
     display: flex;
     justify-content: space-around;
     width: 35%;
-    
 }
 
 .menu{
@@ -38,7 +39,9 @@ nav{
     text-transform: uppercase;
     text-decoration: none;
     letter-spacing: 5px ;
-    font-size: 14px;
+    font-size: 16px;
     font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+
 
 }
