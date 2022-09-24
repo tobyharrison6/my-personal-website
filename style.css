@@ -42,6 +42,24 @@ nav{
     font-size: 16px;
     font-weight: bold;
     font-family: 'Roboto', sans-serif;
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
 
 
+.intro {
+    font-size: 1.5vw;
+    display: block;
+    text-align: left;
+    width: 44vw;
+    position: relative;
+    left: 30%;
+    top: -2vw;
+    color: #62615D;
 }
